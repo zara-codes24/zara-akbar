@@ -1,4 +1,4 @@
-# Hi  I'm Zara Akbar
+# Hi  I am Zara Akbar
 
 ##  About Me
 -  Learning Python & Full Stack Development  
